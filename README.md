@@ -1,5 +1,6 @@
 # senai-versoes-colaboracoes
-Prncipais comandos 
+Principais comandos ;
+
 git init;
 status do git;
 git add.;
